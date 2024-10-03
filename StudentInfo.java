@@ -16,7 +16,7 @@ public class StudentInfo {
     public static void display() {
 
         System.out.println("************************************************************");
-        System.out.println("*    Roy Rui, ID:<300176548>                               *");
+        System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("*                                                          *");
